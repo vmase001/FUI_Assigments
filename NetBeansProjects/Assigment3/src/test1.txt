@@ -1,0 +1,29 @@
+M  DanMarino	45	75	220
+M  SteveSmith	35	57	110
+F  MiaHamm	25	MS
+F  OhYeah	120	AA
+M  JackSmith	34	60	128
+F  Alexandra	55	Ph.D.
+F  Maria	24	BS
+M  DanMarinoJr	4	24	24
+M  MarkWho	38	72	144
+M  DumbOne	27	66	410
+M  Great!	77	110	333
+F  Alicia	46	BS
+F  Haydee	44	AA
+F  Irene	22	BS
+F  Martha	55	Ph.D.
+M  DavidWhite	39	71	155
+M  BillBlack	33	76	144
+M  WeiChen	28	55	112
+M  NormanSmith	33	55	166
+F  AnaSmith	52	Ph.D.
+M  PaulGirard	38	58	211
+M  PeterPan	3	18	22
+M  HumptyDumpty	77	36	500
+F  PaulaGrant	44	MS
+F  BonnieBert	27	AA
+F  BerthaTravis	11	Ph.D.
+F  YolyGarcia	23	BS
+M  JoseSanchez	2	18	22
+M  JulioSmith	38	55	165

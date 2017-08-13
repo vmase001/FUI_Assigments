@@ -1,0 +1,1101 @@
+This Female is invalid
+The unsorted Persons ArrayList: 
+[assigment3.Male:
+	 Name: DanMarino
+
+	 Age: 45
+
+	 Height: 75.0
+
+	 Weight: 220.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: SteveSmith
+
+	 Age: 35
+
+	 Height: 57.0
+
+	 Weight: 110.0
+
+	 Intelligence Level: 3
+
+, assigment3.Female:
+	 Name: MiaHamm
+
+	 Age: 25
+
+	 Last Degree: MS
+
+	 Intelligence Level: 4
+, assigment3.Male:
+	 Name: JackSmith
+
+	 Age: 34
+
+	 Height: 60.0
+
+	 Weight: 128.0
+
+	 Intelligence Level: 2
+
+, assigment3.Female:
+	 Name: Alexandra
+
+	 Age: 55
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: Maria
+
+	 Age: 24
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Male:
+	 Name: DanMarinoJr
+
+	 Age: 4
+
+	 Height: 24.0
+
+	 Weight: 24.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: MarkWho
+
+	 Age: 38
+
+	 Height: 72.0
+
+	 Weight: 144.0
+
+	 Intelligence Level: 4
+
+, assigment3.Male:
+	 Name: DumbOne
+
+	 Age: 27
+
+	 Height: 66.0
+
+	 Weight: 410.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: Great!
+
+	 Age: 77
+
+	 Height: 110.0
+
+	 Weight: 333.0
+
+	 Intelligence Level: 5
+
+, assigment3.Female:
+	 Name: Alicia
+
+	 Age: 46
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: Haydee
+
+	 Age: 44
+
+	 Last Degree: AA
+
+	 Intelligence Level: 2
+, assigment3.Female:
+	 Name: Irene
+
+	 Age: 22
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: Martha
+
+	 Age: 55
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Male:
+	 Name: DavidWhite
+
+	 Age: 39
+
+	 Height: 71.0
+
+	 Weight: 155.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: BillBlack
+
+	 Age: 33
+
+	 Height: 76.0
+
+	 Weight: 144.0
+
+	 Intelligence Level: 4
+
+, assigment3.Male:
+	 Name: WeiChen
+
+	 Age: 28
+
+	 Height: 55.0
+
+	 Weight: 112.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: NormanSmith
+
+	 Age: 33
+
+	 Height: 55.0
+
+	 Weight: 166.0
+
+	 Intelligence Level: 3
+
+, assigment3.Female:
+	 Name: AnaSmith
+
+	 Age: 52
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Male:
+	 Name: PaulGirard
+
+	 Age: 38
+
+	 Height: 58.0
+
+	 Weight: 211.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: PeterPan
+
+	 Age: 3
+
+	 Height: 18.0
+
+	 Weight: 22.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: HumptyDumpty
+
+	 Age: 77
+
+	 Height: 36.0
+
+	 Weight: 500.0
+
+	 Intelligence Level: 5
+
+, assigment3.Female:
+	 Name: PaulaGrant
+
+	 Age: 44
+
+	 Last Degree: MS
+
+	 Intelligence Level: 4
+, assigment3.Female:
+	 Name: BonnieBert
+
+	 Age: 27
+
+	 Last Degree: AA
+
+	 Intelligence Level: 2
+, assigment3.Female:
+	 Name: BerthaTravis
+
+	 Age: 11
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: YolyGarcia
+
+	 Age: 23
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Male:
+	 Name: JoseSanchez
+
+	 Age: 2
+
+	 Height: 18.0
+
+	 Weight: 22.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: JulioSmith
+
+	 Age: 38
+
+	 Height: 55.0
+
+	 Weight: 165.0
+
+	 Intelligence Level: 3
+
+]
+The sorted Persons ArrayList: 
+[assigment3.Female:
+	 Name: Alexandra
+
+	 Age: 55
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: Alicia
+
+	 Age: 46
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: AnaSmith
+
+	 Age: 52
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: BerthaTravis
+
+	 Age: 11
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Male:
+	 Name: BillBlack
+
+	 Age: 33
+
+	 Height: 76.0
+
+	 Weight: 144.0
+
+	 Intelligence Level: 4
+
+, assigment3.Female:
+	 Name: BonnieBert
+
+	 Age: 27
+
+	 Last Degree: AA
+
+	 Intelligence Level: 2
+, assigment3.Male:
+	 Name: DanMarino
+
+	 Age: 45
+
+	 Height: 75.0
+
+	 Weight: 220.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: DanMarinoJr
+
+	 Age: 4
+
+	 Height: 24.0
+
+	 Weight: 24.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: DavidWhite
+
+	 Age: 39
+
+	 Height: 71.0
+
+	 Weight: 155.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: DumbOne
+
+	 Age: 27
+
+	 Height: 66.0
+
+	 Weight: 410.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: Great!
+
+	 Age: 77
+
+	 Height: 110.0
+
+	 Weight: 333.0
+
+	 Intelligence Level: 5
+
+, assigment3.Female:
+	 Name: Haydee
+
+	 Age: 44
+
+	 Last Degree: AA
+
+	 Intelligence Level: 2
+, assigment3.Male:
+	 Name: HumptyDumpty
+
+	 Age: 77
+
+	 Height: 36.0
+
+	 Weight: 500.0
+
+	 Intelligence Level: 5
+
+, assigment3.Female:
+	 Name: Irene
+
+	 Age: 22
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Male:
+	 Name: JackSmith
+
+	 Age: 34
+
+	 Height: 60.0
+
+	 Weight: 128.0
+
+	 Intelligence Level: 2
+
+, assigment3.Male:
+	 Name: JoseSanchez
+
+	 Age: 2
+
+	 Height: 18.0
+
+	 Weight: 22.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: JulioSmith
+
+	 Age: 38
+
+	 Height: 55.0
+
+	 Weight: 165.0
+
+	 Intelligence Level: 3
+
+, assigment3.Female:
+	 Name: Maria
+
+	 Age: 24
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Male:
+	 Name: MarkWho
+
+	 Age: 38
+
+	 Height: 72.0
+
+	 Weight: 144.0
+
+	 Intelligence Level: 4
+
+, assigment3.Female:
+	 Name: Martha
+
+	 Age: 55
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: MiaHamm
+
+	 Age: 25
+
+	 Last Degree: MS
+
+	 Intelligence Level: 4
+, assigment3.Male:
+	 Name: NormanSmith
+
+	 Age: 33
+
+	 Height: 55.0
+
+	 Weight: 166.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: PaulGirard
+
+	 Age: 38
+
+	 Height: 58.0
+
+	 Weight: 211.0
+
+	 Intelligence Level: 3
+
+, assigment3.Female:
+	 Name: PaulaGrant
+
+	 Age: 44
+
+	 Last Degree: MS
+
+	 Intelligence Level: 4
+, assigment3.Male:
+	 Name: PeterPan
+
+	 Age: 3
+
+	 Height: 18.0
+
+	 Weight: 22.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: SteveSmith
+
+	 Age: 35
+
+	 Height: 57.0
+
+	 Weight: 110.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: WeiChen
+
+	 Age: 28
+
+	 Height: 55.0
+
+	 Weight: 112.0
+
+	 Intelligence Level: 3
+
+, assigment3.Female:
+	 Name: YolyGarcia
+
+	 Age: 23
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+]
+The unsorted Males Array: 
+[assigment3.Male:
+	 Name: DanMarino
+
+	 Age: 45
+
+	 Height: 75.0
+
+	 Weight: 220.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: SteveSmith
+
+	 Age: 35
+
+	 Height: 57.0
+
+	 Weight: 110.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: JackSmith
+
+	 Age: 34
+
+	 Height: 60.0
+
+	 Weight: 128.0
+
+	 Intelligence Level: 2
+
+, assigment3.Male:
+	 Name: DanMarinoJr
+
+	 Age: 4
+
+	 Height: 24.0
+
+	 Weight: 24.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: MarkWho
+
+	 Age: 38
+
+	 Height: 72.0
+
+	 Weight: 144.0
+
+	 Intelligence Level: 4
+
+, assigment3.Male:
+	 Name: DumbOne
+
+	 Age: 27
+
+	 Height: 66.0
+
+	 Weight: 410.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: Great!
+
+	 Age: 77
+
+	 Height: 110.0
+
+	 Weight: 333.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: DavidWhite
+
+	 Age: 39
+
+	 Height: 71.0
+
+	 Weight: 155.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: BillBlack
+
+	 Age: 33
+
+	 Height: 76.0
+
+	 Weight: 144.0
+
+	 Intelligence Level: 4
+
+, assigment3.Male:
+	 Name: WeiChen
+
+	 Age: 28
+
+	 Height: 55.0
+
+	 Weight: 112.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: NormanSmith
+
+	 Age: 33
+
+	 Height: 55.0
+
+	 Weight: 166.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: PaulGirard
+
+	 Age: 38
+
+	 Height: 58.0
+
+	 Weight: 211.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: PeterPan
+
+	 Age: 3
+
+	 Height: 18.0
+
+	 Weight: 22.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: HumptyDumpty
+
+	 Age: 77
+
+	 Height: 36.0
+
+	 Weight: 500.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: JoseSanchez
+
+	 Age: 2
+
+	 Height: 18.0
+
+	 Weight: 22.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: JulioSmith
+
+	 Age: 38
+
+	 Height: 55.0
+
+	 Weight: 165.0
+
+	 Intelligence Level: 3
+
+]
+The sorted Males Array: 
+[assigment3.Male:
+	 Name: PeterPan
+
+	 Age: 3
+
+	 Height: 18.0
+
+	 Weight: 22.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: JoseSanchez
+
+	 Age: 2
+
+	 Height: 18.0
+
+	 Weight: 22.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: DanMarinoJr
+
+	 Age: 4
+
+	 Height: 24.0
+
+	 Weight: 24.0
+
+	 Intelligence Level: 1
+
+, assigment3.Male:
+	 Name: HumptyDumpty
+
+	 Age: 77
+
+	 Height: 36.0
+
+	 Weight: 500.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: WeiChen
+
+	 Age: 28
+
+	 Height: 55.0
+
+	 Weight: 112.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: NormanSmith
+
+	 Age: 33
+
+	 Height: 55.0
+
+	 Weight: 166.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: JulioSmith
+
+	 Age: 38
+
+	 Height: 55.0
+
+	 Weight: 165.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: SteveSmith
+
+	 Age: 35
+
+	 Height: 57.0
+
+	 Weight: 110.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: PaulGirard
+
+	 Age: 38
+
+	 Height: 58.0
+
+	 Weight: 211.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: JackSmith
+
+	 Age: 34
+
+	 Height: 60.0
+
+	 Weight: 128.0
+
+	 Intelligence Level: 2
+
+, assigment3.Male:
+	 Name: DumbOne
+
+	 Age: 27
+
+	 Height: 66.0
+
+	 Weight: 410.0
+
+	 Intelligence Level: 3
+
+, assigment3.Male:
+	 Name: DavidWhite
+
+	 Age: 39
+
+	 Height: 71.0
+
+	 Weight: 155.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: MarkWho
+
+	 Age: 38
+
+	 Height: 72.0
+
+	 Weight: 144.0
+
+	 Intelligence Level: 4
+
+, assigment3.Male:
+	 Name: DanMarino
+
+	 Age: 45
+
+	 Height: 75.0
+
+	 Weight: 220.0
+
+	 Intelligence Level: 5
+
+, assigment3.Male:
+	 Name: BillBlack
+
+	 Age: 33
+
+	 Height: 76.0
+
+	 Weight: 144.0
+
+	 Intelligence Level: 4
+
+, assigment3.Male:
+	 Name: Great!
+
+	 Age: 77
+
+	 Height: 110.0
+
+	 Weight: 333.0
+
+	 Intelligence Level: 5
+
+]
+The unsorted Females Array: 
+[assigment3.Female:
+	 Name: MiaHamm
+
+	 Age: 25
+
+	 Last Degree: MS
+
+	 Intelligence Level: 4
+, assigment3.Female:
+	 Name: Alexandra
+
+	 Age: 55
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: Maria
+
+	 Age: 24
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: Alicia
+
+	 Age: 46
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: Haydee
+
+	 Age: 44
+
+	 Last Degree: AA
+
+	 Intelligence Level: 2
+, assigment3.Female:
+	 Name: Irene
+
+	 Age: 22
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: Martha
+
+	 Age: 55
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: AnaSmith
+
+	 Age: 52
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: PaulaGrant
+
+	 Age: 44
+
+	 Last Degree: MS
+
+	 Intelligence Level: 4
+, assigment3.Female:
+	 Name: BonnieBert
+
+	 Age: 27
+
+	 Last Degree: AA
+
+	 Intelligence Level: 2
+, assigment3.Female:
+	 Name: BerthaTravis
+
+	 Age: 11
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: YolyGarcia
+
+	 Age: 23
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+]
+The sorted Females Array: 
+[assigment3.Female:
+	 Name: BerthaTravis
+
+	 Age: 11
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: Irene
+
+	 Age: 22
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: YolyGarcia
+
+	 Age: 23
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: Maria
+
+	 Age: 24
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: MiaHamm
+
+	 Age: 25
+
+	 Last Degree: MS
+
+	 Intelligence Level: 4
+, assigment3.Female:
+	 Name: BonnieBert
+
+	 Age: 27
+
+	 Last Degree: AA
+
+	 Intelligence Level: 2
+, assigment3.Female:
+	 Name: Haydee
+
+	 Age: 44
+
+	 Last Degree: AA
+
+	 Intelligence Level: 2
+, assigment3.Female:
+	 Name: PaulaGrant
+
+	 Age: 44
+
+	 Last Degree: MS
+
+	 Intelligence Level: 4
+, assigment3.Female:
+	 Name: Alicia
+
+	 Age: 46
+
+	 Last Degree: BS
+
+	 Intelligence Level: 3
+, assigment3.Female:
+	 Name: AnaSmith
+
+	 Age: 52
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: Alexandra
+
+	 Age: 55
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+, assigment3.Female:
+	 Name: Martha
+
+	 Age: 55
+
+	 Last Degree: Ph.D.
+
+	 Intelligence Level: 5
+]
