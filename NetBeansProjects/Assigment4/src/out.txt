@@ -1,0 +1,32 @@
+The Size of Array MA1: 0
+The Size of Array MA1: 13
+Array 1:
+assigment4.MyArray
+	 The Array contains: 13 Items 
+
+	 The Array: [573, 2739, 76321, 3873, 73430, 333, 7293, 38383, 272, 946, 3832, 8410, 2583, 0, 0, 0, 0, 0, 0, 0]
+The Largest Element is: 76321
+The Smallest Element is: 272
+The Sum of all the Elements is: 218988
+true
+true
+Array 2 after being Sorted: 
+assigment4.MyArray
+	 The Array contains: 13 Items 
+
+	 The Array: [0, 0, 0, 0, 0, 0, 0, 272, 333, 573, 946, 2583, 2739, 3832, 3873, 7293, 8410, 38383, 73430, 76321]
+The Element is in Position: 8
+The Element is in Position: 10
+The Element is in Position: 19
+The Element is in Position: -1
+The Element is in Position: -1
+The Element is in Position: 13
+The Element is in Position: -1
+The Element is in Position: 9
+The Element is in Position: -1
+The Element is in Position: 11
+Array 2 after inverted: 
+assigment4.MyArray
+	 The Array contains: 13 Items 
+
+	 The Array: [76321, 73430, 38383, 8410, 7293, 3873, 3832, 2739, 2583, 946, 573, 333, 272, 0, 0, 0, 0, 0, 0, 0]

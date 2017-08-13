@@ -1,0 +1,8 @@
+The Size of Array MA1: 0
+The Size of Array MA1: 13
+assigment4.MyArray
+	 The Array contains: 10 Items 
+
+	 The Array: [573, 2739, 76321, 3873, 73430, 333, 7293, 38383, 272, 946, 3832, 8410, 2583, 0, 0, 0, 0, 0, 0, 0]
+The Largest Element is: 76321
+The Smallest Element is: 272
