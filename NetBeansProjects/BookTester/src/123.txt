@@ -1,0 +1,104 @@
+true
+false
+false
+true
+50.0
+75.0
+40.0
+true
+booktester.Novel:
+	 Title: Guns-Of-Navarone
+
+	 Base price: 50.0
+
+	 Type: Adventure
+
+	 Mark up: 0.2
+
+	 Marked Up Price: 50.1
+
+booktester.Novel:
+	 Title: Guns-Of-Navarone
+
+	 Base price: 45.0
+
+	 Type: Adventure
+
+	 Mark up: 15.0
+
+	 Marked Up Price: 51.75
+
+booktester.Novel:
+	 Title: Icarus-Agenda
+
+	 Base price: 35.75
+
+	 Type: Mystery
+
+	 Mark up: 7.0
+
+	 Marked Up Price: 38.2525
+
+booktester.Novel:
+	 Title: Love-Story
+
+	 Base price: 25.5
+
+	 Type: Romance
+
+	 Mark up: 8.0
+
+	 Marked Up Price: 27.54
+
+booktester.Textbook:
+	 Title: Intro-To-Programming
+
+	 Base price: 75.0
+
+	 Field: Comp-Sci
+
+	 Discount: 0.2
+
+	 Actual Price: 74.85
+
+booktester.Textbook:
+	 Title: Elements-Of-Calculus
+
+	 Base price: 56.0
+
+	 Field: Mathematics
+
+	 Discount: 15.0
+
+	 Actual Price: 47.6
+
+booktester.UsedNovel:
+	 Title: Hiking-in-Tibet
+
+	 Base price: 40.0
+
+	 Type: Adventure
+
+	 Mark up: 0.2
+
+	 Marked Up Price: 40.08
+
+	 Age: 3 year(s) old
+
+	 Discounted Price: 38.0
+
+booktester.UsedNovel:
+	 Title: Hiking-in-Tibet
+
+	 Base price: 40.0
+
+	 Type: Adventure
+
+	 Mark up: 15.0
+
+	 Marked Up Price: 46.0
+
+	 Age: 25 year(s) old
+
+	 Discounted Price: 34.0
+
