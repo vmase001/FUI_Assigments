@@ -1,0 +1,50 @@
+true
+Set  0 contains: 
+	 
+	 { 24  423  76  12  8  64  }
+false
+true
+true
+true
+false
+Set  0 contains: 
+	 
+	 { 24  423  12  8  64  111  }
+Set  1 contains: 
+	 
+	 { 76  55  12  43  876  98  64  34  }
+false
+true
+Set  2 contains: 
+	 
+	 { 24  423  12  8  64  111  76  55  43  876  98  34  }
+Set  3 contains: 
+	 
+	 { 12  64  }
+Set  4 contains: 
+	 
+	 { 24  423  8  111  }
+true
+false
+true
+Set  0 contains: 
+	 
+	 { 24  423  12  8  64  111  }
+Set  1 contains: 
+	 
+	 { 76  55  12  43  876  98  64  34  }
+Set  2 contains: 
+	 
+	 { 24  423  12  8  64  111  76  55  43  876  98  34  }
+Set  3 contains: 
+	 
+	 { 12  64  }
+Set  4 contains: 
+	 
+	 { 24  423  8  111  }
+Set  5 contains: 
+	 
+	 { 12  64  24  423  8  111  }
+Set  6 contains: 
+	 
+	 { }
