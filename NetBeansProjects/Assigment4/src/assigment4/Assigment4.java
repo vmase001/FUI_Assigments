@@ -24,7 +24,7 @@ public class Assigment4 {
     public static void main(String[] args) throws Exception {
 
         
-        /*String inf = JOptionPane.showInputDialog("Input file?");
+        String inf = JOptionPane.showInputDialog("Input file?");
         // Input file is src/<name of the file>
         FileReader inFile = new FileReader(inf);
         MyArray MA1 = new MyArray();
@@ -56,24 +56,12 @@ public class Assigment4 {
 
         outFile.close();
     }
-*/
+
     // TODO code application logic here
-MyArray m1 = new MyArray();
-m1.add_Val(10);
-m1.add_Val(1);
-m1.add_Val(50);
-m1.add_Val(100);
-m1.add_Val(60);
-m1.add_Val(41);
-m1.add_Val(32);
-m1.add_Val(70);
-m1.add_Val(86);
-m1.add_Val(13);
-System.out.println(m1);
-m1.sort();
-//System.out.println(m1.search(13));
+
+
 
         
 
 }
-}
+
