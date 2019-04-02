@@ -1,0 +1,201 @@
+> 
+
+val inner : v1:int list -> v2:int list -> int
+
+>
+
+val testcase1 : unit -> unit
+
+>
+innerproduct of [1; 2; 3] and [4; 5; 6] is 32
+val it : unit = ()
+>
+
+val testcase2 : unit -> unit
+
+>
+innerproduct of [44; 300; 5] and [1000; 30] is 53000
+val it : unit = ()
+>
+
+val testcase3 : unit -> unit
+
+>
+innerproduct of [] and [] is 0
+val it : unit = ()
+>
+
+val transpose : _arg1:'a list list -> 'a list list
+
+>
+
+val multiply : matrix1:int list list * matrix2:int list list -> int list list
+
+>
+
+val testcase4 : unit -> unit
+
+>
+the product of [[1; 2; 3]; [4; 5; 6]] and [[0; 1]; [3; 2]; [1; 2]] is [[9; 11]; [21; 26]]
+val it : unit = ()
+>
+
+val testcase5 : unit -> unit
+
+>
+the product of [] and [[60; 13]; [83; 22]; [81; 562]] is []
+val it : unit = ()
+>
+
+val fold : f:('a -> 'b -> 'a) -> a:'a -> _arg1:'b list -> 'a
+
+>
+
+val foldBack : f:('a -> 'b -> 'b) -> xs:'a list -> a:'b -> 'b
+
+> 
+val flatten1 : xs:'a list list -> 'a list
+val flatten2 : xs:'a list list -> 'a list
+val lst : int list list list =
+  [[[1]]; [[2]]; [[3]]; [[4]]; [[5]]; [[6]]; [[7]]; [[8]]; [[9]]; [[10]];
+   [[11]]; [[12]]; [[13]]; [[14]]; [[15]]; [[16]]; [[17]]; [[18]]; [[19]];
+   [[20]]; [[21]]; [[22]]; [[23]]; [[24]]; [[25]]; [[26]]; [[27]]; [[28]];
+   [[29]]; [[30]]; [[31]]; [[32]]; [[33]]; [[34]]; [[35]]; [[36]]; [[37]];
+   [[38]]; [[39]]; [[40]]; [[41]]; [[42]]; [[43]]; [[44]]; [[45]]; [[46]];
+   [[47]]; [[48]]; [[49]]; [[50]]; [[51]]; [[52]]; [[53]]; [[54]]; [[55]];
+   [[56]]; [[57]]; [[58]]; [[59]]; [[60]]; [[61]]; [[62]]; [[63]]; [[64]];
+   [[65]]; [[66]]; [[67]]; [[68]]; [[69]]; [[70]]; [[71]]; [[72]]; [[73]];
+   [[74]]; [[75]]; [[76]]; [[77]]; [[78]]; [[79]]; [[80]]; [[81]]; [[82]];
+   [[83]]; [[84]]; [[85]]; [[86]]; [[87]]; [[88]]; [[89]]; [[90]]; [[91]];
+   [[92]]; [[93]]; [[94]]; [[95]]; [[96]]; [[97]]; [[98]]; [[99]]; [[100]];
+   ...]
+
+
+--> Timing now on
+
+>
+Real: 00:00:00.011, CPU: 00:00:00.015, GC gen0: 4, gen1: 0, gen2: 0
+
+val x : int list list =
+  [[1]; [2]; [3]; [4]; [5]; [6]; [7]; [8]; [9]; [10]; [11]; [12]; [13]; [14];
+   [15]; [16]; [17]; [18]; [19]; [20]; [21]; [22]; [23]; [24]; [25]; [26];
+   [27]; [28]; [29]; [30]; [31]; [32]; [33]; [34]; [35]; [36]; [37]; [38];
+   [39]; [40]; [41]; [42]; [43]; [44]; [45]; [46]; [47]; [48]; [49]; [50];
+   [51]; [52]; [53]; [54]; [55]; [56]; [57]; [58]; [59]; [60]; [61]; [62];
+   [63]; [64]; [65]; [66]; [67]; [68]; [69]; [70]; [71]; [72]; [73]; [74];
+   [75]; [76]; [77]; [78]; [79]; [80]; [81]; [82]; [83]; [84]; [85]; [86];
+   [87]; [88]; [89]; [90]; [91]; [92]; [93]; [94]; [95]; [96]; [97]; [98];
+   [99]; [100]; ...]
+
+> Real: 00:00:00.000, CPU: 00:00:00.000, GC gen0: 0, gen1: 0, gen2: 0
+
+val y : int list list =
+  [[1]; [2]; [3]; [4]; [5]; [6]; [7]; [8]; [9]; [10]; [11]; [12]; [13]; [14];
+   [15]; [16]; [17]; [18]; [19]; [20]; [21]; [22]; [23]; [24]; [25]; [26];
+   [27]; [28]; [29]; [30]; [31]; [32]; [33]; [34]; [35]; [36]; [37]; [38];
+   [39]; [40]; [41]; [42]; [43]; [44]; [45]; [46]; [47]; [48]; [49]; [50];
+   [51]; [52]; [53]; [54]; [55]; [56]; [57]; [58]; [59]; [60]; [61]; [62];
+   [63]; [64]; [65]; [66]; [67]; [68]; [69]; [70]; [71]; [72]; [73]; [74];
+   [75]; [76]; [77]; [78]; [79]; [80]; [81]; [82]; [83]; [84]; [85]; [86];
+   [87]; [88]; [89]; [90]; [91]; [92]; [93]; [94]; [95]; [96]; [97]; [98];
+   [99]; [100]; ...]
+
+>
+
+--> Timing now off
+
+>
+we can see with the #time function that flatten2 takes no time to complete (00:00:00.000) while flatten1 takes slightly more (00:00:00:011), we can conclude that flatten2 is the more efficient 
+val it : unit = ()
+> 
+val twice : f:('a -> 'a) -> x:'a -> 'a
+
+>
+
+val twice2 : f:('a -> 'a) -> ('a -> 'a)
+
+>
+
+val successor : n:int -> int
+
+> 
+val testcase6 : unit -> unit
+
+>
+twice successor 0 = 2
+(twice(twice successor)) 0 = 4
+(twice(twice(twice successor))) 0 = 8
+(twice (twice (twice (twice successor)))) 0 = 16
+calculates 2^k where k = the amount of time twice is called so 2^1 = 2, 2^2 = 4, 2^3 = 8, 2^4 = 16 ...
+ 
+twice successor 0 = 2
+twice twice successor 0 = 4
+twice twice twice successor 0 = 16
+twice twice twice twice successor 0 = 65536
+calculates 2^k where k = previous number calculated so 2^1 = 2, 2^2 = 4, 2^4 = 16, 2^16 = 65536 etc..
+val it : unit = ()
+> 
+type 'a stream = | Cons of 'a * (unit -> 'a stream)
+val upfrom : n:int -> int stream
+
+>
+
+val nums : int stream = Cons (0,<fun:upfrom@160-9>)
+
+>
+
+val take : n:int -> 'a stream -> 'a list
+
+> 
+val filter : p:('a -> bool) -> 'a stream -> 'a stream
+
+>
+
+val power : x:int -> _arg1:int -> int
+
+>
+
+val cubesum : _arg1:int -> int
+
+>
+
+val armstrong : int stream -> int stream
+
+>
+
+val result : int stream = Cons (0,<fun:armstrong@186-14>)
+
+>
+
+val testcase7 : unit -> unit
+
+> the first armstrong number is [0]
+val it : unit = ()
+>
+
+val testcase8 : unit -> unit
+
+>
+the first two armstrong numbers are [0; 1]
+val it : unit = ()
+>
+
+val testcase9 : unit -> unit
+
+>
+the first three armstrong numbers are [0; 1; 153]
+val it : unit = ()
+>
+
+val testcase10 : unit -> unit
+
+> the first four armstrong numbers are [0; 1; 153; 370]
+val it : unit = ()
+>
+
+val testcase11 : unit -> unit
+
+>
+the first five armstrong number are [0; 1; 153; 370; 371]
+val it : unit = ()
+>

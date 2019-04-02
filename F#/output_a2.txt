@@ -1,0 +1,50 @@
+val cartesian : xs:'a list -> ys:'b list -> ('a * 'b) list
+>
+val testcase1 : unit -> unit
+>
+the cartesean product of ["a"; "b"; "c"] and [1; 2] = [("a", 1); ("a", 2); ("b", 1); ("b", 2); ("c", 1); ("c", 2)]val it : unit = ()
+
+
+val powerset : _arg1:'a list -> 'a list list
+>
+val testcase3 : unit -> unit
+>
+the powerset of ["cat"; "dog"; "rat"] is [["cat"; "dog"; "rat"]; ["cat"; "dog"]; ["cat"; "rat"]; ["cat"]; ["dog"; "rat"];
+ ["dog"]; ["rat"]; []]val it : unit = ()
+
+
+val transpose : _arg1:'a list list -> 'a list list
+>
+val testcase4 : unit -> unit
+>
+the transpose of [[1; 2; 3]; [4; 5; 6]] = [[1; 4]; [2; 5]; [3; 6]]val it : unit = ()
+
+
+val merge : 'a list * 'a list -> 'a list when 'a : comparison
+val split : _arg1:'a list -> 'a list * 'a list
+val mergesort : _arg1:'a list -> 'a list when 'a : comparison
+
+val testcase5 : unit -> unit
+
+> [5; 2; 99; 37; 500] sorted is [2; 5; 37; 99; 500]val it : unit = ()
+
+val testcase6 : unit -> unit
+
+> ["rat"; "cat"; "bird"; "dog"] sorted is ["bird"; "cat"; "dog"; "rat"]val it : unit = ()
+
+
+> val curry : f:('a * 'b -> 'c) -> a:'a -> b:'b -> 'c
+> val uncurry : f:('a -> 'b -> 'c) -> a:'a * b:'b -> 'c
+>
+val testcase7 : unit -> unit
+>
+plus = <fun:plus@150-20>
+plus (2,3) = 5
+curry plus is <fun:cplus@152-17>
+cplus 3 is <fun:Invoke@2819>
+plus3 10 is 13
+val it : unit = ()
+
+
+
+
